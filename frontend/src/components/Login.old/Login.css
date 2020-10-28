@@ -1,0 +1,11 @@
+form {
+    display: flex;
+    flex-direction: column;
+    /* width: 80%; */
+    align-items: center;
+}
+
+form div {
+    width: 300px;
+}
+
